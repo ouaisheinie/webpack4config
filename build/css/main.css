@@ -1,0 +1,18 @@
+body{
+  background-color: red;
+}
+body #div1 {
+  width: 100px;
+  height: 100px;
+  background: green;
+  -webkit-transform: scale(0.2);
+          transform: scale(0.2);
+  margin-top: 100px;
+  margin-left: 100px;
+}
+body #div2 {
+  width: 180px;
+  height: 150px;
+  background: url(http://www.baidu.com/834bad30e89f2196ae4210a7578666c5.jpg);
+}
+
