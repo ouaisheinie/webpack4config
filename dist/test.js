@@ -1,4 +1,4 @@
-var _dll_react =
+var ab =
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
@@ -82,56 +82,19 @@ var _dll_react =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 0);
+/******/ 	return __webpack_require__(__webpack_require__.s = "./src/test.js");
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "./node_modules/react-dom/index.js":
-/*!*********************************************************************************!*\
-  !*** delegated ./node_modules/react-dom/index.js from dll-reference _dll_react ***!
-  \*********************************************************************************/
+/***/ "./src/test.js":
+/*!*********************!*\
+  !*** ./src/test.js ***!
+  \*********************/
 /*! no static exports found */
-/*! all exports used */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = (__webpack_require__(/*! dll-reference _dll_react */ \"dll-reference _dll_react\"))(\"./node_modules/react-dom/index.js\");\n\n//# sourceURL=webpack://_dll_%5Bname%5D/delegated_./node_modules/react-dom/index.js_from_dll-reference__dll_react?");
-
-/***/ }),
-
-/***/ "./node_modules/react/index.js":
-/*!*****************************************************************************!*\
-  !*** delegated ./node_modules/react/index.js from dll-reference _dll_react ***!
-  \*****************************************************************************/
-/*! no static exports found */
-/*! all exports used */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = (__webpack_require__(/*! dll-reference _dll_react */ \"dll-reference _dll_react\"))(\"./node_modules/react/index.js\");\n\n//# sourceURL=webpack://_dll_%5Bname%5D/delegated_./node_modules/react/index.js_from_dll-reference__dll_react?");
-
-/***/ }),
-
-/***/ 0:
-/*!*****************!*\
-  !*** dll react ***!
-  \*****************/
-/*! no static exports found */
-/*! all exports used */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__;\n\n//# sourceURL=webpack://_dll_%5Bname%5D/dll_react?");
-
-/***/ }),
-
-/***/ "dll-reference _dll_react":
-/*!*****************************!*\
-  !*** external "_dll_react" ***!
-  \*****************************/
-/*! no static exports found */
-/*! all exports used */
 /***/ (function(module, exports) {
 
-eval("module.exports = _dll_react;\n\n//# sourceURL=webpack://_dll_%5Bname%5D/external_%22_dll_react%22?");
+eval("module.exports = \"zzy\"\n\n//# sourceURL=webpack://ab/./src/test.js?");
 
 /***/ })
 

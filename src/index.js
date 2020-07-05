@@ -1,5 +1,7 @@
 import jquery from "jquery"
 import moment from "moment"
+import React from "react"
+import { render } from "react-dom"
 // 设置语言
 // 手动引入所需要的语言
 import "moment/locale/zh-cn"
