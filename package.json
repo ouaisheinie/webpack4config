@@ -20,6 +20,7 @@
     "eslint-loader": "^4.0.2",
     "expose-loader": "^1.0.0",
     "file-loader": "^6.0.0",
+    "happypack": "^5.0.1",
     "html-webpack-plugin": "^4.3.0",
     "html-withimg-loader": "^0.1.16",
     "jquery": "^3.5.1",
